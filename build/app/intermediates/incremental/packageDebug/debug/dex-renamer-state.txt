@@ -1,0 +1,4 @@
+#Mon Jul 02 11:45:16 CEST 2018
+base.0=/Users/eric/AndroidStudioProjects/dribba_flutter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
